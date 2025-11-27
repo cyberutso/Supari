@@ -1,2 +1,2 @@
 # Supari : Malware Development Tool
-A collection of malware development tools that are compatible with a wide range of platforms and written in a wide range of programming languages is available.
+A collection of malware source code written in many different programming languages and for many different platforms.
