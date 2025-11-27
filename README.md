@@ -1,3 +1,2 @@
-# Supari : Malware analysis & development toolbox 
-
-Supari offers security tools for malware development, detection, monitoring, and analysis within safe, isolated environments.
+# Supari : Malware Development Tool
+A collection of malware development tools that are compatible with a wide range of platforms and written in a wide range of programming languages is available.
