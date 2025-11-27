@@ -6,3 +6,4 @@ root.attributes('-topmost',True)
 root.protocol("WM_DELETE_WINDOW",lambda :None) #DISABLE WM
 root.mainloop()
 
+
